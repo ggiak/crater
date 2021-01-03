@@ -38,7 +38,7 @@
             type="text"
             name="name"
             class="mt-2"
-            autocomplete="off"
+            autocomplete="nope"
           />
         </sw-input-group>
 
@@ -54,7 +54,7 @@
             :placeholder="$t('items.select_a_unit')"
             class="mt-2"
             label="name"
-            autocomplete="off"
+            autocomplete="nope"
           />
         </sw-input-group>
 
@@ -67,7 +67,7 @@
             type="text"
             name="name"
             class="mt-2"
-            autocomplete="off"
+            autocomplete="nope"
           />
         </sw-input-group>
 

@@ -72,7 +72,7 @@
         :aria-controls="'listbox-' + id"
         :class="multiselectInputStyle"
         type="text"
-        autocomplete="off"
+        autocomplete="nope"
         spellcheck="false"
         @input="updateSearch($event.target.value)"
         @focus.prevent="activate()"

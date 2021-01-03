@@ -45,7 +45,7 @@
             type="text"
             name="name"
             class="mt-2"
-            autocomplete="off"
+            autocomplete="nope"
           />
         </sw-input-group>
 
@@ -58,7 +58,7 @@
             type="text"
             name="address_name"
             class="mt-2"
-            autocomplete="off"
+            autocomplete="nope"
           />
         </sw-input-group>
 
@@ -71,7 +71,7 @@
             type="text"
             name="phone"
             class="mt-2"
-            autocomplete="off"
+            autocomplete="nope"
           />
         </sw-input-group>
 
