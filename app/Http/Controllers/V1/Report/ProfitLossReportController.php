@@ -70,7 +70,6 @@ class ProfitLossReportController extends Controller
             'expenseCategories' => $expenseCategories,
             'totalExpense' => $totalAmount,
             'colorSettings' => $colorSettings,
-            'company' => $company,
             'from_date' => $from_date,
             'to_date' => $to_date
         ]);
